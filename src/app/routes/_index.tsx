@@ -1,4 +1,4 @@
-import HeroSection from "./components/hero-section";
+import HeroSection from "src/components/hero-section";
 
 const Index = () => {
   return <HeroSection />;
