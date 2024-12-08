@@ -1,9 +1,10 @@
 {
-  "overrides": [
-    {
-      "files": ".prettierrc",
-      "options": { "parser": "json" }
-    }
-  ],
-  "plugins": ["prettier-plugin-tailwindcss"]
+    "tabWidth": 4,
+    "overrides": [
+        {
+            "files": ".prettierrc",
+            "options": { "parser": "json" }
+        }
+    ],
+    "plugins": ["prettier-plugin-tailwindcss"]
 }
