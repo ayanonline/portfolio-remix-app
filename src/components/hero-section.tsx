@@ -53,11 +53,11 @@ const HeroSection = () => {
                     </FadeIn>
                 </div>
 
-                <FadeIn>
-                    <div className="mx-auto">
+                <div className="mx-auto">
+                    <FadeIn>
                         <Image src="/ayan.jpg" className="h-52" />
-                    </div>
-                </FadeIn>
+                    </FadeIn>
+                </div>
             </div>
         </Container>
     );
